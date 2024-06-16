@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Estudos\\Progamevc\\OrderApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\models\\orderitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\models\\orderitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\models\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\models\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItemModel.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\OrderItemModel.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Models\\OrderItemModel.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\OrderItemModel.cs",
+              "RelativeToolTip": "Order.Domain\\Models\\OrderItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:57:06.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Models\\OrderModel.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\OrderModel.cs",
+              "RelativeToolTip": "Order.Domain\\Models\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:55:53.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Order.Domain\\Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:51:51.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Models\\UserModel.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\UserModel.cs",
+              "RelativeToolTip": "Order.Domain\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:35.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientModel.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\ClientModel.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Models\\ClientModel.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\ClientModel.cs",
+              "RelativeToolTip": "Order.Domain\\Models\\ClientModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:48:18.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Models\\EntityBase.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\EntityBase.cs",
+              "RelativeToolTip": "Order.Domain\\Models\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:46:40.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
