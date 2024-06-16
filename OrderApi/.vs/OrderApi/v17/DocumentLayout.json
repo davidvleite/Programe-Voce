@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "D:\\Estudos\\Progamevc\\OrderApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\models\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\models\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\models\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\models\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\interfaces\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\interfaces\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\models\\interfaces\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\models\\interfaces\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\models\\interfaces\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\models\\interfaces\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\interfaces\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\interfaces\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\interfaces\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\interfaces\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\interfaces\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\interfaces\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A19E50D4-DC26-4FA9-8A10-7FA061C02E90}|Order.Domain\\Order.Domain.csproj|d:\\estudos\\progamevc\\orderapi\\order.domain\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,16 +82,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Services\\UserService.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Services\\UserService.cs",
+              "RelativeToolTip": "Order.Domain\\Services\\UserService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAhwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:23:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Productservice.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Services\\Productservice.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Services\\Productservice.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Services\\Productservice.cs",
+              "RelativeToolTip": "Order.Domain\\Services\\Productservice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:22:09.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Services\\OrderService.cs",
+              "RelativeToolTip": "Order.Domain\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:21:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Services\\ClientService.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Services\\ClientService.cs",
+              "RelativeToolTip": "Order.Domain\\Services\\ClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:19:21.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "Order.Domain\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:12:48.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Interfaces\\Services\\IProductService.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Services\\IProductService.cs",
+              "RelativeToolTip": "Order.Domain\\Interfaces\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:10:41.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Interfaces\\Services\\IOrderService.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Order.Domain\\Interfaces\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:07:36.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Services\\IClientService.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Interfaces\\Services\\IClientService.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Services\\IClientService.cs",
+              "RelativeToolTip": "Order.Domain\\Interfaces\\Services\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:47:39.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\Interfaces\\Repositories\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Order.Domain\\Models\\Interfaces\\Repositories\\IOrderRepository.cs",
-              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\Interfaces\\Repositories\\IOrderRepository.cs",
-              "RelativeToolTip": "Order.Domain\\Models\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Order.Domain\\Interfaces\\Repositories\\IOrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T14:38:55.342Z",
@@ -67,46 +203,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\Interfaces\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Order.Domain\\Models\\Interfaces\\Repositories\\IUserRepository.cs",
-              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\Interfaces\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "Order.Domain\\Models\\Interfaces\\Repositories\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Order.Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T14:36:03.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\Interfaces\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Order.Domain\\Models\\Interfaces\\Repositories\\IProductRepository.cs",
-              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\Interfaces\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Order.Domain\\Models\\Interfaces\\Repositories\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Order.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T14:33:41.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IClientRepository.cs",
-              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\Interfaces\\Repositories\\IClientRepository.cs",
-              "RelativeDocumentMoniker": "Order.Domain\\Models\\Interfaces\\Repositories\\IClientRepository.cs",
-              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\Interfaces\\Repositories\\IClientRepository.cs",
-              "RelativeToolTip": "Order.Domain\\Models\\Interfaces\\Repositories\\IClientRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Interfaces\\Repositories\\IClientRepository.cs",
+              "ToolTip": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Interfaces\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "Order.Domain\\Interfaces\\Repositories\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T14:23:02.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "OrderItemModel.cs",
               "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\OrderItemModel.cs",
               "RelativeDocumentMoniker": "Order.Domain\\Models\\OrderItemModel.cs",
@@ -114,12 +250,11 @@
               "RelativeToolTip": "Order.Domain\\Models\\OrderItemModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T13:57:06.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T13:57:06.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "OrderModel.cs",
               "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\OrderModel.cs",
               "RelativeDocumentMoniker": "Order.Domain\\Models\\OrderModel.cs",
@@ -127,12 +262,11 @@
               "RelativeToolTip": "Order.Domain\\Models\\OrderModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T13:55:53.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T13:55:53.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "ProductModel.cs",
               "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\ProductModel.cs",
               "RelativeDocumentMoniker": "Order.Domain\\Models\\ProductModel.cs",
@@ -144,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "Order.Domain\\Models\\UserModel.cs",
@@ -156,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "ClientModel.cs",
               "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\ClientModel.cs",
               "RelativeDocumentMoniker": "Order.Domain\\Models\\ClientModel.cs",
@@ -164,12 +298,11 @@
               "RelativeToolTip": "Order.Domain\\Models\\ClientModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T13:48:18.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T13:48:18.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "EntityBase.cs",
               "DocumentMoniker": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Domain\\Models\\EntityBase.cs",
               "RelativeDocumentMoniker": "Order.Domain\\Models\\EntityBase.cs",
@@ -177,8 +310,7 @@
               "RelativeToolTip": "Order.Domain\\Models\\EntityBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T13:46:40.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T13:46:40.705Z"
             }
           ]
         }
