@@ -10,5 +10,6 @@ namespace Order.Domain.Models
     {
         public ClientCertificateOption Client { get; set; }
         public UserModel User { get; set; }
+        public List<OrderItemModel> Items { get; set; }
     }
 }
