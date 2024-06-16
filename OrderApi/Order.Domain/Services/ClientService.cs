@@ -1,6 +1,8 @@
-﻿using Order.Domain.Interfaces.Repositories;
+﻿using FluentValidation;
+using Order.Domain.Interfaces.Repositories;
 using Order.Domain.Interfaces.Services;
 using Order.Domain.Models;
+using Order.Domain.Validations;
 
 namespace Order.Domain.Services
 {
@@ -15,7 +17,18 @@ namespace Order.Domain.Services
 
         public Task CreateAsync(ClientModel client)
         {
-            //_clientRepository.CreateAsync(client);
+            var validation = new ClientValidation();
+            var result = validation.Validate(client);
+
+            if(!result.IsValid)
+            {
+                foreach (var erro in result.Errors) 
+                {
+                    
+                }
+            }
+
+            _clientRepository.CreateAsync(client);
             throw new NotImplementedException();
         }
 
