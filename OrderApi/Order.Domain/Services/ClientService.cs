@@ -3,6 +3,7 @@ using Order.Domain.Interfaces.Repositories;
 using Order.Domain.Interfaces.Services;
 using Order.Domain.Models;
 using Order.Domain.Validations;
+using Order.Domain.Validations.Base;
 
 namespace Order.Domain.Services
 {
@@ -15,41 +16,96 @@ namespace Order.Domain.Services
             _clientRepository = clientRepository;
         }
 
-        public Task CreateAsync(ClientModel client)
+        async Task<Response> IClientService.CreateAsync(ClientModel client)
         {
+            var response = new Response();
             var validation = new ClientValidation();
-            var result = validation.Validate(client);
+            var errors = validation.Validate(client).GetErrors();
 
-            if(!result.IsValid)
+            if (errors.Report.Count > 0) return errors;
+
+            await _clientRepository.CreateAsync(client);
+
+            return response;
+        }
+
+        async Task<Response> IClientService.DeleteAsync(string clientId)
+        {
+            var response = new Response();
+
+            var exists = await _clientRepository.ExistsByIdAsync(clientId);
+
+            if (!exists)
             {
-                foreach (var erro in result.Errors) 
+                response.Report.Add(Report.Create($"Client {clientId} not exists!"));
+                return response;
+            }
+
+            await _clientRepository.DeleteAsync(clientId);
+
+            return response;
+
+        }
+
+
+        public async Task<Response<ClientModel>> GetByIdAsync(string clientId)
+        {
+            var response = new Response<ClientModel>();
+
+            var exists = await _clientRepository.ExistsByIdAsync(clientId);
+
+            if (!exists)
+            {
+                response.Report.Add(Report.Create($"Client {clientId} not exists!"));
+                return response;
+            }
+
+            var data = await _clientRepository.GetByIdAsync(clientId);
+            response.Data = data;
+            return response;
+        }
+
+        public async Task<Response<List<ClientModel>>> ListByFiltersAsync(string clientId = null, string name = null)
+        {
+            var response = new Response<List<ClientModel>>();
+
+            if (!string.IsNullOrWhiteSpace(clientId))
+            {
+                var exists = await _clientRepository.ExistsByIdAsync(clientId);
+
+                if (!exists)
                 {
-                    
+                    response.Report.Add(Report.Create($"Client {clientId} not exists!"));
+                    return response;
                 }
             }
 
-            _clientRepository.CreateAsync(client);
-            throw new NotImplementedException();
+            var data = await _clientRepository.ListByFilterAsync(clientId, name);
+            response.Data = data;
+
+            return response;
         }
 
-        public Task DeleteAsync(ClientModel clientId)
+        async Task<Response> IClientService.UpdateAsync(ClientModel client)
         {
-            throw new NotImplementedException();
-        }
+            var response = new Response();
+            var validation = new ClientValidation();
+            var errors = validation.Validate(client).GetErrors();
 
-        public Task<ClientModel> GetByIdAsync(string clientId)
-        {
-            throw new NotImplementedException();
-        }
+            if (errors.Report.Count > 0) return errors;
 
-        public Task<List<ClientModel>> ListByFilterAsync(ClientModel client)
-        {
-            throw new NotImplementedException();
-        }
+            var exists = await _clientRepository.ExistsByIdAsync(client.Id);
 
-        public Task UpdateAsync(ClientModel client)
-        {
-            throw new NotImplementedException();
+            if (!exists)
+            {
+                response.Report.Add(Report.Create($"Client {client.Id} not exists!"));
+                return response;
+            }
+
+            await _clientRepository.UpdateAsync(client);
+
+            return response;
+
         }
     }
 }
