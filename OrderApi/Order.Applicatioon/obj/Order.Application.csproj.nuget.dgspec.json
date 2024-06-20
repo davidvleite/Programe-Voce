@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\Progamevc\\OrderApi\\OrderApi\\Order.Api.csproj": {}
+    "D:\\Estudos\\Progamevc\\OrderApi\\Order.Applicatioon\\Order.Application.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\Progamevc\\OrderApi\\Order.Applicatioon\\Order.Applicatioon.csproj": {
+    "D:\\Estudos\\Progamevc\\OrderApi\\Order.Applicatioon\\Order.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Applicatioon\\Order.Applicatioon.csproj",
-        "projectName": "Order.Applicatioon",
-        "projectPath": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Applicatioon\\Order.Applicatioon.csproj",
+        "projectUniqueName": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Applicatioon\\Order.Application.csproj",
+        "projectName": "Order.Application",
+        "projectPath": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Applicatioon\\Order.Application.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
         "outputPath": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Applicatioon\\obj\\",
         "projectStyle": "PackageReference",
@@ -140,91 +140,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Estudos\\Progamevc\\OrderApi\\OrderApi\\Order.Api.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Estudos\\Progamevc\\OrderApi\\OrderApi\\Order.Api.csproj",
-        "projectName": "Order.Api",
-        "projectPath": "D:\\Estudos\\Progamevc\\OrderApi\\OrderApi\\Order.Api.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\Progamevc\\OrderApi\\OrderApi\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "D:\\Estudos\\Progamevc\\OrderApi\\Order.Applicatioon\\Order.Applicatioon.csproj": {
-                "projectPath": "D:\\Estudos\\Progamevc\\OrderApi\\Order.Applicatioon\\Order.Applicatioon.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.19.6, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

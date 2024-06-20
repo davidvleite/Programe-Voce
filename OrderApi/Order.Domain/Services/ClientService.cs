@@ -33,7 +33,7 @@ namespace Order.Domain.Services
         {
             var response = new Response();
 
-            var exists = await _clientRepository.ExistsByIdAsync(clientId);
+            var exists = await _clientRepository.ExistsByIdAsync(clientId); 
 
             if (!exists)
             {
@@ -65,7 +65,7 @@ namespace Order.Domain.Services
             return response;
         }
 
-        public async Task<Response<List<ClientModel>>> ListByFiltersAsync(string clientId = null, string name = null)
+         async Task<Response<List<ClientModel>>> IClientService.ListByFiltersAsync(string? clientId , string? name)
         {
             var response = new Response<List<ClientModel>>();
 
